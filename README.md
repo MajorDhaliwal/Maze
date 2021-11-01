@@ -1,10 +1,10 @@
 # Maze
 
-Maze Generated with an iterative DFS solution<br>
+Maze generated with an iterative DFS solution<br>
 <img src="./maze_generate.gif" alt="My Project GIF" width="640" height="480">
 </br>
 
-Yellow dots represents BFS to find the bottom right corner. Purple path represents path from start to end of maze. 
+Yellow dots represents BFS to find the bottom right corner. Purple path represents path from start (top-left) to end of maze. 
 <img src="./maze_solve.gif" alt="My Project GIF" width="640" height="480">
 
 
