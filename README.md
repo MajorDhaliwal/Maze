@@ -1,6 +1,6 @@
 # Maze
 
-Maze Generated with an interative DFS solution<br>
+Maze Generated with an iterative DFS solution<br>
 <img src="./maze_generate.gif" alt="My Project GIF" width="640" height="480">
 </br>
 
