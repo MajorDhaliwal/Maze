@@ -1,5 +1,4 @@
 # Maze
-
 Maze Generated with an interative DFS solution
 <img src="./maze_generate.gif" alt="My Project GIF" width="640" height="480">
 
