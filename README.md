@@ -13,4 +13,4 @@ To Run:
 1. You will need the SDL2 library [installed](https://wiki.libsdl.org/Installation).
 2. Inside the terminal run ```make```. (Note: I developed this on  a linux system so you may need to configure your terminal on Windows) 
 
-When the Maze Generator Window appears, enter 'g' on your keyboard to generate the maze, then enter 's' for the maze path to appear.
+When the Maze Generator window appears, enter 'g' on your keyboard to generate the maze, then enter 's' for the maze path to appear.
